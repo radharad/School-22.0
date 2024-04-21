@@ -13,7 +13,8 @@ This is a School website built using HTML, CSS, and JavaScript and Modern Librar
 3. Admissions: Admission criteria, application process, enrollment forms, deadlines, tuition fees, scholarships, and FAQs for prospective students and parents.
 4. Academics: Overview of academic programs, curriculum details, courses offered, faculty profiles, academic calendar, grading system, and academic resources.
 5. Facilities: Description and photos/videos of school facilities such as classrooms, labs, libraries, sports facilities, auditoriums, playgrounds, and dining areas.
-6. Extracurricular Activities: Information about sports teams, clubs, arts programs, music, drama, debate, community service, and other extracurricular activities available to students.
+6. Extracurricular Activities: Information about sports teams, clubs, arts programs, music, drama, debate, community service, and other extracurricular activities available to 
+   students.
 7. Events and News: Calendar of events, school news, announcements, newsletters, achievements, awards, and upcoming activities.
 8. Parent Portal: Access to a parent portal for communication with teachers, viewing student progress, grades, attendance, school policies, and parent-teacher meetings.
 9. Student Life: Insights into student life, testimonials, student achievements, leadership opportunities, student council, and student organizations.
@@ -28,7 +29,7 @@ This is a School website built using HTML, CSS, and JavaScript and Modern Librar
 For any inquiries or feedback, please email me at komalsatpute950@gmail.com
 
 ## Demo Link:
-You can view the live demo [here]().
+You can view the live demo [here](https://lively-cupcake-fa6976.netlify.app).
 
 ## FAQs:
 - **Q:** How can I contribute to this project?
